@@ -1,10 +1,12 @@
 import './App.css';
+import HomePage from './Components/HomePage';
+
 
 function App() {
   return (
-    <div className="flex justify-center items-center text-center">
-    <p>Hollo world</p>
-    </div>
+    <>
+      <HomePage />
+    </>
   );
 }
 
