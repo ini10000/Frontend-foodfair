@@ -4,7 +4,9 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      primary:'hsl(32deg 100% 50%)'
+    },
   },
   plugins: [],
 }

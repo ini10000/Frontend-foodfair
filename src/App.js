@@ -17,6 +17,16 @@ function App() {
       <Recommendation />
       <Footer />
     </div>
+//import './App.css';
+//import HomePage from './Components/HomePage';
+
+
+//function App() {
+  //return (
+    //<>
+      //<HomePage />
+    //</>
+
   );
 }
 
